@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vignesh B</h1>
-<h3 align="center">Java Full Stack Developer | HCLTech</h3>
+<h3 align="center">Software Engineer @ HCLTech</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshitis" alt="vigneshitis" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development with Java**
+- 🌱 I’m currently working on **Full Stack Development with Java**
 
-- 💬 Ask me about **JSP, JDBC, MySQL, Electronics, and more.**
+- 💬 Ask me about **Spring Boot,React,PostgreSQL,JSP, JDBC, MySQL, Electronics, and more.**
 
 - 📫 How to reach me **vignesh200356@gmail.com I promise I respond faster than my Wi-Fi.**
 
